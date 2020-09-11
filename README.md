@@ -7,7 +7,10 @@ This software is the achievement of Msc project.
 
 To test this file, please follow the steps as follow:
 
---Open the file pro.sln with Visual studio 2019(X86)
+--Open the file 
+## pro.sln 
+with 
+## Visual studio 2019(X86)
 
 (the test data resource is in the map file)
 
