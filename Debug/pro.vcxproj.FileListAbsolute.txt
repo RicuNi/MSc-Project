@@ -1,0 +1,2 @@
+D:\Project\v2\pro\Debug\pro.exe
+D:\Project\v2\pro\Debug\pro.pdb

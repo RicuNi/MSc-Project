@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.2 (1714 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="31.1764000" minlon="121.0990800" maxlat="31.1767700" maxlon="121.0997900"/>
+ <node id="412404497" visible="true" version="2" changeset="8662673" timestamp="2011-07-08T02:59:23Z" user="yangfl" uid="304705" lat="31.1766610" lon="121.0994601"/>
+ <node id="413327215" visible="true" version="5" changeset="66647654" timestamp="2019-01-26T02:00:29Z" user="aighes" uid="110639" lat="31.1822846" lon="121.0994460"/>
+ <node id="1353357475" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:43Z" user="yangfl" uid="304705" lat="31.1765326" lon="121.0990013"/>
+ <node id="1353357477" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:43Z" user="yangfl" uid="304705" lat="31.1765326" lon="121.0992696"/>
+ <node id="1353357487" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:43Z" user="yangfl" uid="304705" lat="31.1765440" lon="121.0994588"/>
+ <node id="1353357490" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:43Z" user="yangfl" uid="304705" lat="31.1765593" lon="121.0997151"/>
+ <node id="1353357523" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:44Z" user="yangfl" uid="304705" lat="31.1766249" lon="121.1098881"/>
+ <node id="1353357546" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:44Z" user="yangfl" uid="304705" lat="31.1766571" lon="121.0997147"/>
+ <node id="1353357547" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:44Z" user="yangfl" uid="304705" lat="31.1766630" lon="121.0989968"/>
+ <node id="1353357553" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:44Z" user="yangfl" uid="304705" lat="31.1766639" lon="121.0992778"/>
+ <node id="1353357581" visible="true" version="1" changeset="8662673" timestamp="2011-07-08T02:58:45Z" user="yangfl" uid="304705" lat="31.1766985" lon="121.1099293"/>
+ <node id="3464824040" visible="true" version="1" changeset="30321793" timestamp="2015-04-19T06:39:39Z" user="aighes" uid="110639" lat="31.1715626" lon="121.0994287"/>
+ <node id="3464824052" visible="true" version="2" changeset="66647654" timestamp="2019-01-26T02:00:30Z" user="aighes" uid="110639" lat="31.1827211" lon="121.0994468"/>
+ <node id="3464826766" visible="true" version="1" changeset="30321793" timestamp="2015-04-19T06:39:42Z" user="aighes" uid="110639" lat="31.1732485" lon="121.0994388"/>
+ <node id="3464826824" visible="true" version="1" changeset="30321793" timestamp="2015-04-19T06:39:43Z" user="aighes" uid="110639" lat="31.1766112" lon="121.1077661"/>
+ <node id="3464826827" visible="true" version="1" changeset="30321793" timestamp="2015-04-19T06:39:43Z" user="aighes" uid="110639" lat="31.1766897" lon="121.1077702"/>
+ <node id="6213509362" visible="true" version="1" changeset="66365744" timestamp="2019-01-16T14:47:59Z" user="aighes" uid="110639" lat="31.1787760" lon="121.0994669"/>
+ <node id="6237287518" visible="true" version="1" changeset="66647654" timestamp="2019-01-26T02:00:24Z" user="aighes" uid="110639" lat="31.1791168" lon="121.0994680">
+  <tag k="bus" v="yes"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <node id="6237287519" visible="true" version="1" changeset="66647654" timestamp="2019-01-26T02:00:24Z" user="aighes" uid="110639" lat="31.1810708" lon="121.0994475">
+  <tag k="bus" v="yes"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <way id="120766802" visible="true" version="3" changeset="55805069" timestamp="2018-01-27T14:37:53Z" user="Austin Zhu" uid="4816761">
+  <nd ref="1353357553"/>
+  <nd ref="1353357547"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="崧泽大道"/>
+  <tag k="name:en" v="Songze Highway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="120766834" visible="true" version="3" changeset="55805069" timestamp="2018-01-27T14:37:56Z" user="Austin Zhu" uid="4816761">
+  <nd ref="1353357475"/>
+  <nd ref="1353357477"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="崧泽大道"/>
+  <tag k="name:en" v="Songze Highway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="120766882" visible="true" version="5" changeset="66365744" timestamp="2019-01-16T14:48:02Z" user="aighes" uid="110639">
+  <nd ref="1353357487"/>
+  <nd ref="1353357490"/>
+  <nd ref="3464826824"/>
+  <nd ref="1353357523"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="崧泽大道"/>
+  <tag k="name:en" v="Songze Highway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="120766889" visible="true" version="5" changeset="66365744" timestamp="2019-01-16T14:48:02Z" user="aighes" uid="110639">
+  <nd ref="1353357581"/>
+  <nd ref="3464826827"/>
+  <nd ref="1353357546"/>
+  <nd ref="412404497"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="崧泽大道"/>
+  <tag k="name:en" v="Songze Highway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="339296714" visible="true" version="7" changeset="66647654" timestamp="2019-01-26T02:00:35Z" user="aighes" uid="110639">
+  <nd ref="3464824052"/>
+  <nd ref="413327215"/>
+  <nd ref="6237287519"/>
+  <nd ref="6237287518"/>
+  <nd ref="6213509362"/>
+  <nd ref="412404497"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="胜利路"/>
+  <tag k="name:en" v="ShengLi Road"/>
+  <tag k="width" v="25"/>
+ </way>
+ <way id="531218584" visible="true" version="3" changeset="66129942" timestamp="2019-01-08T14:21:12Z" user="aighes" uid="110639">
+  <nd ref="1353357487"/>
+  <nd ref="3464826766"/>
+  <nd ref="3464824040"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="胜利路"/>
+  <tag k="name:en" v="ShengLi Road"/>
+  <tag k="width" v="25"/>
+ </way>
+ <way id="663830095" visible="true" version="1" changeset="66365744" timestamp="2019-01-16T14:48:00Z" user="aighes" uid="110639">
+  <nd ref="1353357477"/>
+  <nd ref="1353357487"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="崧泽大道"/>
+  <tag k="name:en" v="Songze Highway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="663830107" visible="true" version="1" changeset="66365744" timestamp="2019-01-16T14:48:00Z" user="aighes" uid="110639">
+  <nd ref="412404497"/>
+  <nd ref="1353357553"/>
+  <tag k="cycleway:right" v="lane"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="崧泽大道"/>
+  <tag k="name:en" v="Songze Highway"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="663830108" visible="true" version="1" changeset="66365744" timestamp="2019-01-16T14:48:00Z" user="aighes" uid="110639">
+  <nd ref="412404497"/>
+  <nd ref="1353357487"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="胜利路"/>
+  <tag k="name:en" v="ShengLi Road"/>
+  <tag k="width" v="25"/>
+ </way>
+ <relation id="9225216" visible="true" version="5" changeset="67194263" timestamp="2019-02-14T13:41:04Z" user="aighes" uid="110639">
+  <member type="way" ref="339288155" role=""/>
+  <member type="way" ref="339288403" role=""/>
+  <member type="way" ref="339288308" role=""/>
+  <member type="way" ref="339288459" role=""/>
+  <member type="way" ref="339288483" role=""/>
+  <member type="way" ref="339288492" role=""/>
+  <member type="way" ref="531218583" role=""/>
+  <member type="way" ref="339288480" role=""/>
+  <member type="way" ref="339288296" role=""/>
+  <member type="way" ref="35160326" role=""/>
+  <member type="way" ref="35160325" role=""/>
+  <member type="way" ref="339288442" role=""/>
+  <member type="way" ref="339288309" role=""/>
+  <member type="way" ref="666225698" role=""/>
+  <member type="way" ref="666225697" role=""/>
+  <member type="way" ref="339288184" role=""/>
+  <member type="way" ref="666225696" role=""/>
+  <member type="way" ref="339288109" role=""/>
+  <member type="way" ref="339288104" role=""/>
+  <member type="way" ref="35262882" role=""/>
+  <member type="way" ref="666215383" role=""/>
+  <member type="way" ref="339288129" role=""/>
+  <member type="way" ref="339288396" role=""/>
+  <member type="way" ref="663830097" role=""/>
+  <member type="way" ref="120930853" role=""/>
+  <member type="way" ref="120930869" role=""/>
+  <member type="way" ref="339288451" role=""/>
+  <member type="way" ref="339288136" role=""/>
+  <member type="way" ref="339287971" role=""/>
+  <member type="way" ref="619855196" role=""/>
+  <member type="way" ref="339292388" role=""/>
+  <member type="way" ref="339292383" role=""/>
+  <member type="way" ref="663830104" role=""/>
+  <member type="way" ref="663830094" role=""/>
+  <member type="way" ref="120766834" role=""/>
+  <member type="way" ref="663830095" role=""/>
+  <member type="way" ref="663830108" role=""/>
+  <member type="way" ref="339296714" role=""/>
+  <member type="way" ref="339296665" role=""/>
+  <member type="way" ref="556271507" role=""/>
+  <member type="way" ref="662060863" role=""/>
+  <member type="way" ref="35160126" role=""/>
+  <member type="way" ref="408851022" role=""/>
+  <member type="way" ref="670462325" role=""/>
+  <member type="way" ref="408851072" role=""/>
+  <member type="way" ref="322831729" role=""/>
+  <member type="way" ref="322831745" role=""/>
+  <member type="way" ref="666225702" role=""/>
+  <member type="way" ref="666225701" role=""/>
+  <member type="way" ref="322831719" role=""/>
+  <member type="way" ref="322831760" role=""/>
+  <member type="way" ref="322831723" role=""/>
+  <member type="way" ref="666225700" role=""/>
+  <member type="node" ref="6237271459" role="platform"/>
+  <member type="node" ref="6237271458" role="stop"/>
+  <member type="node" ref="6237287509" role="platform"/>
+  <member type="node" ref="6237287510" role="stop"/>
+  <member type="node" ref="6237271465" role="platform"/>
+  <member type="node" ref="6237271464" role="stop"/>
+  <member type="node" ref="6237271466" role="platform"/>
+  <member type="node" ref="6237271467" role="stop"/>
+  <member type="node" ref="6237287511" role="platform"/>
+  <member type="node" ref="6237287512" role="stop"/>
+  <member type="node" ref="6213509365" role="platform"/>
+  <member type="node" ref="6237287519" role="stop"/>
+  <member type="node" ref="6237287520" role="platform"/>
+  <member type="node" ref="6237287513" role="stop"/>
+  <member type="node" ref="6253389823" role="platform"/>
+  <member type="node" ref="6253389822" role="stop"/>
+  <member type="node" ref="6253389824" role="platform"/>
+  <member type="node" ref="6253389827" role="stop"/>
+  <member type="node" ref="6253389826" role="platform"/>
+  <member type="node" ref="6253389825" role="stop"/>
+  <member type="node" ref="6253389828" role="platform"/>
+  <member type="node" ref="6253389829" role="stop"/>
+  <tag k="from" v="华青南路沪青平公路"/>
+  <tag k="name" v="青浦9路"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="新桥路久远路"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="9225217" visible="true" version="5" changeset="67194263" timestamp="2019-02-14T13:41:04Z" user="aighes" uid="110639">
+  <member type="way" ref="666225700" role=""/>
+  <member type="way" ref="322831723" role=""/>
+  <member type="way" ref="322831760" role=""/>
+  <member type="way" ref="322831719" role=""/>
+  <member type="way" ref="666225701" role=""/>
+  <member type="way" ref="666225702" role=""/>
+  <member type="way" ref="322831745" role=""/>
+  <member type="way" ref="322831729" role=""/>
+  <member type="way" ref="408851072" role=""/>
+  <member type="way" ref="670462325" role=""/>
+  <member type="way" ref="408851022" role=""/>
+  <member type="way" ref="35160126" role=""/>
+  <member type="way" ref="662060863" role=""/>
+  <member type="way" ref="556271507" role=""/>
+  <member type="way" ref="339296665" role=""/>
+  <member type="way" ref="339296714" role=""/>
+  <member type="way" ref="663830107" role=""/>
+  <member type="way" ref="120766802" role=""/>
+  <member type="way" ref="663830106" role=""/>
+  <member type="way" ref="663830105" role=""/>
+  <member type="way" ref="663830104" role=""/>
+  <member type="way" ref="339292383" role=""/>
+  <member type="way" ref="339292388" role=""/>
+  <member type="way" ref="619855196" role=""/>
+  <member type="way" ref="339287971" role=""/>
+  <member type="way" ref="339288136" role=""/>
+  <member type="way" ref="339288451" role=""/>
+  <member type="way" ref="663830102" role=""/>
+  <member type="way" ref="663830101" role=""/>
+  <member type="way" ref="120930873" role=""/>
+  <member type="way" ref="663830098" role=""/>
+  <member type="way" ref="666215374" role=""/>
+  <member type="way" ref="666215366" role=""/>
+  <member type="way" ref="666215371" role=""/>
+  <member type="way" ref="666215373" role=""/>
+  <member type="way" ref="666215372" role=""/>
+  <member type="way" ref="35262882" role=""/>
+  <member type="way" ref="339288104" role=""/>
+  <member type="way" ref="339288109" role=""/>
+  <member type="way" ref="666225696" role=""/>
+  <member type="way" ref="339288184" role=""/>
+  <member type="way" ref="666225697" role=""/>
+  <member type="way" ref="666225698" role=""/>
+  <member type="way" ref="339288309" role=""/>
+  <member type="way" ref="339288442" role=""/>
+  <member type="way" ref="35160325" role=""/>
+  <member type="way" ref="35160326" role=""/>
+  <member type="way" ref="339288296" role=""/>
+  <member type="way" ref="339288480" role=""/>
+  <member type="way" ref="531218583" role=""/>
+  <member type="way" ref="339288492" role=""/>
+  <member type="way" ref="339288483" role=""/>
+  <member type="way" ref="666225686" role=""/>
+  <member type="way" ref="666225684" role=""/>
+  <member type="way" ref="666225685" role=""/>
+  <member type="way" ref="666225683" role=""/>
+  <member type="way" ref="666225687" role=""/>
+  <member type="way" ref="339288345" role=""/>
+  <member type="node" ref="6253389838" role="stop"/>
+  <member type="node" ref="6252645733" role="platform"/>
+  <member type="node" ref="6253389821" role="stop"/>
+  <member type="node" ref="6253389820" role="platform"/>
+  <member type="node" ref="6253389822" role="stop"/>
+  <member type="node" ref="6213509359" role="platform"/>
+  <member type="node" ref="6253389827" role="stop"/>
+  <member type="node" ref="6252645877" role="platform"/>
+  <member type="node" ref="6237287513" role="stop"/>
+  <member type="node" ref="6213509360" role="platform"/>
+  <member type="node" ref="6237287518" role="stop"/>
+  <member type="node" ref="6213509363" role="platform"/>
+  <member type="node" ref="6213509364" role="platform"/>
+  <member type="node" ref="6237287512" role="stop"/>
+  <member type="node" ref="6237271473" role="platform"/>
+  <member type="node" ref="3464791073" role="stop"/>
+  <member type="node" ref="6237271463" role="platform"/>
+  <member type="node" ref="6237271464" role="stop"/>
+  <member type="node" ref="6237271457" role="platform"/>
+  <member type="node" ref="6237271456" role="stop"/>
+  <member type="node" ref="6237271461" role="platform"/>
+  <member type="node" ref="6237271460" role="stop"/>
+  <member type="node" ref="6237401465" role="platform"/>
+  <member type="node" ref="6237401464" role="stop"/>
+  <tag k="name" v="青浦9路"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="route" v="bus"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="9257109" visible="true" version="5" changeset="74134961" timestamp="2019-09-05T13:33:07Z" user="aighes" uid="110639">
+  <member type="node" ref="6773478901" role="platform"/>
+  <member type="node" ref="6774633168" role="stop"/>
+  <member type="node" ref="6237271480" role="platform"/>
+  <member type="node" ref="6237287497" role="stop"/>
+  <member type="node" ref="6237287509" role="platform"/>
+  <member type="node" ref="6237287510" role="stop"/>
+  <member type="node" ref="6237271478" role="platform"/>
+  <member type="node" ref="6237271476" role="stop"/>
+  <member type="node" ref="6237287511" role="platform"/>
+  <member type="node" ref="6237287512" role="stop"/>
+  <member type="way" ref="666215382" role=""/>
+  <member type="way" ref="666215381" role=""/>
+  <member type="way" ref="666215378" role=""/>
+  <member type="way" ref="666215377" role=""/>
+  <member type="way" ref="666215368" role=""/>
+  <member type="way" ref="666215367" role=""/>
+  <member type="way" ref="666215370" role=""/>
+  <member type="way" ref="666215369" role=""/>
+  <member type="way" ref="666215366" role=""/>
+  <member type="way" ref="666215375" role=""/>
+  <member type="way" ref="663830097" role=""/>
+  <member type="way" ref="120930853" role=""/>
+  <member type="way" ref="120930869" role=""/>
+  <member type="way" ref="663830096" role=""/>
+  <member type="way" ref="120930863" role=""/>
+  <member type="way" ref="666215384" role=""/>
+  <member type="way" ref="619855200" role=""/>
+  <member type="way" ref="663830104" role=""/>
+  <member type="way" ref="663830094" role=""/>
+  <member type="way" ref="120766834" role=""/>
+  <member type="way" ref="663830095" role=""/>
+  <member type="way" ref="120766882" role=""/>
+  <member type="way" ref="120766855" role=""/>
+  <member type="way" ref="120766879" role=""/>
+  <member type="way" ref="120766755" role=""/>
+  <member type="way" ref="666225660" role=""/>
+  <member type="way" ref="666225671" role=""/>
+  <member type="way" ref="666225672" role=""/>
+  <member type="way" ref="404588882" role=""/>
+  <member type="way" ref="404588888" role=""/>
+  <member type="way" ref="404575813" role=""/>
+  <member type="way" ref="666225669" role=""/>
+  <member type="way" ref="404575800" role=""/>
+  <member type="way" ref="404250672" role=""/>
+  <member type="way" ref="322839417" role=""/>
+  <member type="way" ref="666225665" role=""/>
+  <member type="way" ref="339296653" role=""/>
+  <member type="way" ref="339296687" role=""/>
+  <member type="way" ref="339296669" role=""/>
+  <member type="way" ref="339296703" role=""/>
+  <member type="way" ref="339296651" role=""/>
+  <member type="way" ref="339296661" role=""/>
+  <member type="way" ref="668176441" role=""/>
+  <member type="way" ref="339288134" role=""/>
+  <member type="way" ref="666225664" role=""/>
+  <member type="way" ref="339288352" role=""/>
+  <member type="way" ref="711696216" role=""/>
+  <member type="way" ref="35159853" role=""/>
+  <member type="way" ref="339288026" role=""/>
+  <member type="way" ref="666225663" role=""/>
+  <member type="way" ref="475470791" role=""/>
+  <member type="way" ref="475470794" role=""/>
+  <member type="way" ref="349577384" role=""/>
+  <member type="way" ref="666225656" role=""/>
+  <member type="way" ref="666225659" role=""/>
+  <tag k="from" v="盈港客运站"/>
+  <tag k="name" v="青浦7路"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="中山医院青浦分院"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="9257110" visible="true" version="3" changeset="66891763" timestamp="2019-02-04T03:54:14Z" user="aighes" uid="110639">
+  <member type="node" ref="6213509364" role="platform"/>
+  <member type="node" ref="6237287512" role="stop"/>
+  <member type="node" ref="6237271479" role="platform"/>
+  <member type="node" ref="6237271477" role="stop"/>
+  <member type="node" ref="6237271475" role="platform"/>
+  <member type="node" ref="6237271474" role="stop"/>
+  <member type="node" ref="6237287506" role="platform"/>
+  <member type="node" ref="6237287507" role="stop"/>
+  <member type="way" ref="666215380" role=""/>
+  <member type="way" ref="666215381" role=""/>
+  <member type="way" ref="666215378" role=""/>
+  <member type="way" ref="666215376" role=""/>
+  <member type="way" ref="339288297" role=""/>
+  <member type="way" ref="339288179" role=""/>
+  <member type="way" ref="339288227" role=""/>
+  <member type="way" ref="339288167" role=""/>
+  <member type="way" ref="663830099" role=""/>
+  <member type="way" ref="663830098" role=""/>
+  <member type="way" ref="120930873" role=""/>
+  <member type="way" ref="663830101" role=""/>
+  <member type="way" ref="120930867" role=""/>
+  <member type="way" ref="120930864" role=""/>
+  <member type="way" ref="666215386" role=""/>
+  <member type="way" ref="666215385" role=""/>
+  <member type="way" ref="619855200" role=""/>
+  <member type="way" ref="663830104" role=""/>
+  <member type="way" ref="663830105" role=""/>
+  <member type="way" ref="663830106" role=""/>
+  <member type="way" ref="120766802" role=""/>
+  <member type="way" ref="663830107" role=""/>
+  <member type="way" ref="120766889" role=""/>
+  <member type="way" ref="120766766" role=""/>
+  <member type="way" ref="120766881" role=""/>
+  <member type="way" ref="120766831" role=""/>
+  <member type="way" ref="666225673" role=""/>
+  <member type="way" ref="666225672" role=""/>
+  <member type="way" ref="404588882" role=""/>
+  <member type="way" ref="404588888" role=""/>
+  <member type="way" ref="404575813" role=""/>
+  <member type="way" ref="666225669" role=""/>
+  <member type="way" ref="404575817" role=""/>
+  <member type="way" ref="404250663" role=""/>
+  <member type="way" ref="404250671" role=""/>
+  <member type="way" ref="339288496" role=""/>
+  <member type="way" ref="339288390" role=""/>
+  <member type="way" ref="666225665" role=""/>
+  <member type="way" ref="339296653" role=""/>
+  <member type="way" ref="339296687" role=""/>
+  <member type="way" ref="339296669" role=""/>
+  <member type="way" ref="339296703" role=""/>
+  <member type="way" ref="339296651" role=""/>
+  <member type="way" ref="339296661" role=""/>
+  <member type="way" ref="668176437" role=""/>
+  <member type="way" ref="668176438" role=""/>
+  <member type="way" ref="668176435" role=""/>
+  <member type="way" ref="668176440" role=""/>
+  <member type="way" ref="339288352" role=""/>
+  <member type="way" ref="339288364" role=""/>
+  <member type="way" ref="35159853" role=""/>
+  <member type="way" ref="339288026" role=""/>
+  <member type="way" ref="666225663" role=""/>
+  <member type="way" ref="475470791" role=""/>
+  <member type="way" ref="475470794" role=""/>
+  <member type="way" ref="349577384" role=""/>
+  <member type="way" ref="666225693" role=""/>
+  <tag k="from" v="中山医院青浦分院"/>
+  <tag k="name" v="青浦7路"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="盈港客运站"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="9257112" visible="true" version="1" changeset="66647654" timestamp="2019-01-26T02:00:27Z" user="aighes" uid="110639">
+  <member type="node" ref="6213509365" role="platform"/>
+  <member type="node" ref="6237287519" role="stop"/>
+  <member type="node" ref="6213509363" role="platform"/>
+  <member type="node" ref="6237287518" role="stop"/>
+  <tag k="name" v="胜利路崧泽大道"/>
+  <tag k="public_transport" v="stop_area"/>
+  <tag k="type" v="public_transport"/>
+ </relation>
+ <relation id="9257372" visible="true" version="1" changeset="66648605" timestamp="2019-01-26T04:38:06Z" user="aighes" uid="110639">
+  <member type="relation" ref="9257109" role=""/>
+  <member type="relation" ref="9257110" role=""/>
+  <tag k="name" v="青浦7路"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="9257373" visible="true" version="1" changeset="66648605" timestamp="2019-01-26T04:38:07Z" user="aighes" uid="110639">
+  <member type="relation" ref="9225217" role=""/>
+  <member type="relation" ref="9225216" role=""/>
+  <tag k="name" v="青浦9路"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+</osm>

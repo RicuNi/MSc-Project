@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1480746 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="41.7627200" minlon="123.4201100" maxlat="41.7678700" maxlon="123.4272900"/>
+ <node id="676742067" visible="true" version="3" changeset="55766408" timestamp="2018-01-26T10:50:44Z" user="jamesks" uid="2500" lat="41.7659176" lon="123.4289262"/>
+ <node id="677593108" visible="true" version="1" changeset="4269891" timestamp="2010-03-29T18:15:01Z" user="Esperanza36" uid="83557" lat="41.7628033" lon="123.4290020"/>
+ <node id="677593109" visible="true" version="2" changeset="55766408" timestamp="2018-01-26T10:50:45Z" user="jamesks" uid="2500" lat="41.7628113" lon="123.4287847"/>
+ <node id="677593115" visible="true" version="3" changeset="13759937" timestamp="2012-11-05T12:23:39Z" user="muaum" uid="212575" lat="41.7630267" lon="123.4213564">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="678460873" visible="true" version="3" changeset="13698380" timestamp="2012-10-31T11:53:27Z" user="muaum" uid="212575" lat="41.7690739" lon="123.4216321">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="678460876" visible="true" version="3" changeset="13698380" timestamp="2012-10-31T11:53:27Z" user="muaum" uid="212575" lat="41.7691961" lon="123.4216315">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="678461174" visible="true" version="3" changeset="55766408" timestamp="2018-01-26T10:50:45Z" user="jamesks" uid="2500" lat="41.7759810" lon="123.4220129">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1019548117" visible="true" version="1" changeset="6534875" timestamp="2010-12-04T08:23:38Z" user="LeKofi" uid="23816" lat="41.7594414" lon="123.4211632"/>
+ <node id="1019548119" visible="true" version="2" changeset="13698380" timestamp="2012-10-31T11:53:28Z" user="muaum" uid="212575" lat="41.7587531" lon="123.4209594">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1019548215" visible="true" version="2" changeset="13698380" timestamp="2012-10-31T11:53:27Z" user="muaum" uid="212575" lat="41.7586651" lon="123.4253797">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1025702948" visible="true" version="1" changeset="6570348" timestamp="2010-12-06T23:49:06Z" user="LeKofi" uid="23816" lat="41.7607862" lon="123.4212769"/>
+ <node id="1025702949" visible="true" version="1" changeset="6570348" timestamp="2010-12-06T23:49:06Z" user="LeKofi" uid="23816" lat="41.7606823" lon="123.4254757"/>
+ <node id="1025702961" visible="true" version="2" changeset="15476535" timestamp="2013-03-24T10:54:12Z" user="muaum" uid="212575" lat="41.7629054" lon="123.4255815">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1025702972" visible="true" version="2" changeset="38303586" timestamp="2016-04-04T21:44:44Z" user="karitotp" uid="2748195" lat="41.7771154" lon="123.4220300"/>
+ <node id="1040754945" visible="true" version="2" changeset="55766408" timestamp="2018-01-26T10:50:48Z" user="jamesks" uid="2500" lat="41.7625660" lon="123.4360792"/>
+ <node id="1741289861" visible="true" version="3" changeset="88208185" timestamp="2020-07-19T18:30:55Z" user="Metrohsrtheedit" uid="7030314" lat="41.7627257" lon="123.4268907">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="McDonald's"/>
+  <tag k="brand:en" v="McDonald's"/>
+  <tag k="brand:wikidata" v="Q38076"/>
+  <tag k="brand:wikipedia" v="zh:麦当劳"/>
+  <tag k="brand:zh" v="麦当劳"/>
+  <tag k="brand:zh-Hans" v="麦当劳"/>
+  <tag k="name" v="McDonald's"/>
+ </node>
+ <node id="1741292809" visible="true" version="1" changeset="11506685" timestamp="2012-05-05T11:24:57Z" user="muaum" uid="212575" lat="41.7627263" lon="123.4317724"/>
+ <node id="1741292811" visible="true" version="1" changeset="11506685" timestamp="2012-05-05T11:24:57Z" user="muaum" uid="212575" lat="41.7654385" lon="123.4277919"/>
+ <node id="1741292814" visible="true" version="1" changeset="11506685" timestamp="2012-05-05T11:24:57Z" user="muaum" uid="212575" lat="41.7660389" lon="123.4257599"/>
+ <node id="1741292818" visible="true" version="1" changeset="11506685" timestamp="2012-05-05T11:24:57Z" user="muaum" uid="212575" lat="41.7655349" lon="123.4257312"/>
+ <node id="1741348139" visible="true" version="4" changeset="88208185" timestamp="2020-07-19T18:30:55Z" user="Metrohsrtheedit" uid="7030314" lat="41.7638781" lon="123.4207860">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="McDonald's"/>
+  <tag k="brand:en" v="McDonald's"/>
+  <tag k="brand:wikidata" v="Q38076"/>
+  <tag k="brand:wikipedia" v="zh:麦当劳"/>
+  <tag k="brand:zh" v="麦当劳"/>
+  <tag k="brand:zh-Hans" v="麦当劳"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="name" v="McDonald's"/>
+  <tag k="takeaway" v="yes"/>
+ </node>
+ <node id="1774607732" visible="true" version="3" changeset="88208185" timestamp="2020-07-19T18:30:55Z" user="Metrohsrtheedit" uid="7030314" lat="41.7627374" lon="123.4217118">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="KFC"/>
+  <tag k="brand:zh" v="肯德基"/>
+  <tag k="name" v="KFC"/>
+  <tag k="name:zh" v="肯德基"/>
+ </node>
+ <node id="1859675276" visible="true" version="1" changeset="12675547" timestamp="2012-08-10T03:03:41Z" user="muaum" uid="212575" lat="41.7730718" lon="123.4218403"/>
+ <node id="1917119238" visible="true" version="3" changeset="55766408" timestamp="2018-01-26T10:50:49Z" user="jamesks" uid="2500" lat="41.7759616" lon="123.4219207">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1917119239" visible="true" version="2" changeset="13698380" timestamp="2012-10-31T11:53:27Z" user="muaum" uid="212575" lat="41.7587556" lon="123.4208498">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1917119242" visible="true" version="1" changeset="13130528" timestamp="2012-09-16T13:29:56Z" user="muaum" uid="212575" lat="41.7607897" lon="123.4211728"/>
+ <node id="1917119244" visible="true" version="2" changeset="13698380" timestamp="2012-10-31T11:53:27Z" user="muaum" uid="212575" lat="41.7690766" lon="123.4215248">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1917119245" visible="true" version="1" changeset="13130528" timestamp="2012-09-16T13:29:56Z" user="muaum" uid="212575" lat="41.7594523" lon="123.4210597"/>
+ <node id="1917119250" visible="true" version="2" changeset="13759937" timestamp="2012-11-05T12:23:39Z" user="muaum" uid="212575" lat="41.7630290" lon="123.4212523">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1917119251" visible="true" version="3" changeset="42507032" timestamp="2016-09-28T23:09:40Z" user="lzm956902416" uid="4508854" lat="41.7691989" lon="123.4215256">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1917119255" visible="true" version="1" changeset="13130528" timestamp="2012-09-16T13:29:57Z" user="muaum" uid="212575" lat="41.7730749" lon="123.4217362"/>
+ <node id="1917119256" visible="true" version="2" changeset="42507032" timestamp="2016-09-28T23:09:40Z" user="lzm956902416" uid="4508854" lat="41.7718881" lon="123.4216723">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2036315184" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:26Z" user="muaum" uid="212575" lat="41.7665666" lon="123.4172343"/>
+ <node id="2036315190" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:26Z" user="muaum" uid="212575" lat="41.7664260" lon="123.4214054"/>
+ <node id="2036315197" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:26Z" user="muaum" uid="212575" lat="41.7678920" lon="123.4184067"/>
+ <node id="2036315200" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:27Z" user="muaum" uid="212575" lat="41.7679009" lon="123.4179883"/>
+ <node id="2036315211" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:27Z" user="muaum" uid="212575" lat="41.7665289" lon="123.4183527"/>
+ <node id="2036315214" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:27Z" user="muaum" uid="212575" lat="41.7678275" lon="123.4214685"/>
+ <node id="2036315216" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:27Z" user="muaum" uid="212575" lat="41.7679153" lon="123.4173019"/>
+ <node id="2246381067" visible="true" version="1" changeset="15593330" timestamp="2013-04-03T11:27:51Z" user="muaum" uid="212575" lat="41.7683971" lon="123.4258937"/>
+ <node id="2246381073" visible="true" version="2" changeset="55766408" timestamp="2018-01-26T10:50:48Z" user="jamesks" uid="2500" lat="41.7759905" lon="123.4219896"/>
+ <node id="2321984875" visible="true" version="2" changeset="38303586" timestamp="2016-04-04T21:44:44Z" user="karitotp" uid="2748195" lat="41.7770105" lon="123.4219595"/>
+ <node id="4098319195" visible="true" version="1" changeset="38303586" timestamp="2016-04-04T21:44:44Z" user="karitotp" uid="2748195" lat="41.7770383" lon="123.4220647"/>
+ <node id="5256850862" visible="true" version="3" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7628542" lon="123.4257516"/>
+ <node id="5256850863" visible="true" version="3" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7627419" lon="123.4280657"/>
+ <node id="5256850864" visible="true" version="3" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7625080" lon="123.4280453"/>
+ <node id="5256850868" visible="true" version="3" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7625325" lon="123.4274764"/>
+ <node id="5256850878" visible="true" version="3" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7625932" lon="123.4257288"/>
+ <node id="5256870968" visible="true" version="1" changeset="54221261" timestamp="2017-12-01T01:40:36Z" user="童童圆圆" uid="7120208" lat="41.7635902" lon="123.4263359"/>
+ <node id="5256870969" visible="true" version="1" changeset="54221261" timestamp="2017-12-01T01:40:36Z" user="童童圆圆" uid="7120208" lat="41.7635316" lon="123.4272230"/>
+ <node id="5256870970" visible="true" version="1" changeset="54221261" timestamp="2017-12-01T01:40:36Z" user="童童圆圆" uid="7120208" lat="41.7633591" lon="123.4272025"/>
+ <node id="5256870971" visible="true" version="1" changeset="54221261" timestamp="2017-12-01T01:40:36Z" user="童童圆圆" uid="7120208" lat="41.7634177" lon="123.4263155"/>
+ <node id="5256923156" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7653561" lon="123.4257981"/>
+ <node id="5256923157" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7653221" lon="123.4265526"/>
+ <node id="5256923158" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7652000" lon="123.4265427"/>
+ <node id="5256923159" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7652340" lon="123.4257882"/>
+ <node id="5256923160" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7653241" lon="123.4266236"/>
+ <node id="5256923161" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7652966" lon="123.4272829"/>
+ <node id="5256923162" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7651725" lon="123.4272706"/>
+ <node id="5256923163" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7652000" lon="123.4266051"/>
+ <node id="5256923164" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7650300" lon="123.4257855"/>
+ <node id="5256923165" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7649932" lon="123.4265373"/>
+ <node id="5256923166" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7648783" lon="123.4265281"/>
+ <node id="5256923167" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7649151" lon="123.4257732"/>
+ <node id="5256923168" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7649886" lon="123.4265959"/>
+ <node id="5256923169" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7649656" lon="123.4272706"/>
+ <node id="5256923170" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7648576" lon="123.4272583"/>
+ <node id="5256923171" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7648898" lon="123.4265835"/>
+ <node id="5256923172" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7647381" lon="123.4257979"/>
+ <node id="5256923173" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7646922" lon="123.4266821"/>
+ <node id="5256923174" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7645933" lon="123.4266852"/>
+ <node id="5256923175" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7646324" lon="123.4257917"/>
+ <node id="5256923176" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7646968" lon="123.4267407"/>
+ <node id="5256923177" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7646761" lon="123.4271135"/>
+ <node id="5256923178" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7645704" lon="123.4270950"/>
+ <node id="5256923179" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7645933" lon="123.4267283"/>
+ <node id="5256923180" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7644922" lon="123.4257732"/>
+ <node id="5256923181" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7644646" lon="123.4264295"/>
+ <node id="5256923182" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7643520" lon="123.4264295"/>
+ <node id="5256923183" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7643750" lon="123.4257547"/>
+ <node id="5256923184" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7644853" lon="123.4265034"/>
+ <node id="5256923185" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7644738" lon="123.4269224"/>
+ <node id="5256923186" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7643474" lon="123.4269101"/>
+ <node id="5256923187" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7643635" lon="123.4265003"/>
+ <node id="5256923188" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7642306" lon="123.4257884"/>
+ <node id="5256923189" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7642030" lon="123.4261858"/>
+ <node id="5256923190" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7640605" lon="123.4261673"/>
+ <node id="5256923191" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7640858" lon="123.4257730"/>
+ <node id="5256923192" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7641814" lon="123.4262864"/>
+ <node id="5256923193" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7641515" lon="123.4272199"/>
+ <node id="5256923194" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7640136" lon="123.4272107"/>
+ <node id="5256923195" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7640366" lon="123.4262802"/>
+ <node id="5256923200" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:34Z" user="童童圆圆" uid="7120208" lat="41.7638694" lon="123.4262230"/>
+ <node id="5256923201" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7638395" lon="123.4271628"/>
+ <node id="5256923202" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7636902" lon="123.4271689"/>
+ <node id="5256923203" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7637132" lon="123.4262200"/>
+ <node id="5256923204" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7638418" lon="123.4272614"/>
+ <node id="5256923205" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7638212" lon="123.4279361"/>
+ <node id="5256923206" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7636534" lon="123.4279269"/>
+ <node id="5256923207" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7636741" lon="123.4272583"/>
+ <node id="5256923208" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:10Z" user="童童圆圆" uid="7120208" lat="41.7639087" lon="123.4257495"/>
+ <node id="5256923209" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7638926" lon="123.4261469"/>
+ <node id="5256923210" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7637455" lon="123.4261284"/>
+ <node id="5256923211" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208" lat="41.7637593" lon="123.4257402"/>
+ <node id="5256923212" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7644853" lon="123.4270395"/>
+ <node id="5256923213" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7644623" lon="123.4275448"/>
+ <node id="5256923214" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7642946" lon="123.4275263"/>
+ <node id="5256923215" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7643153" lon="123.4270210"/>
+ <node id="5256923216" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7632845" lon="123.4265229"/>
+ <node id="5256923217" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7632687" lon="123.4268485"/>
+ <node id="5256923218" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7631182" lon="123.4268591"/>
+ <node id="5256923219" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7630892" lon="123.4271600"/>
+ <node id="5256923220" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7629202" lon="123.4271458"/>
+ <node id="5256924021" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7629493" lon="123.4262150"/>
+ <node id="5256924022" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7631288" lon="123.4262256"/>
+ <node id="5256924023" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:35Z" user="童童圆圆" uid="7120208" lat="41.7631208" lon="123.4265335"/>
+ <node id="5256924024" visible="true" version="3" changeset="57337599" timestamp="2018-03-20T02:46:46Z" user="童童圆圆" uid="7120208" lat="41.7636231" lon="123.4272442"/>
+ <node id="5256924025" visible="true" version="3" changeset="57337599" timestamp="2018-03-20T02:46:46Z" user="童童圆圆" uid="7120208" lat="41.7636139" lon="123.4279408"/>
+ <node id="5256924026" visible="true" version="3" changeset="57337599" timestamp="2018-03-20T02:46:46Z" user="童童圆圆" uid="7120208" lat="41.7631978" lon="123.4272352"/>
+ <node id="5258632669" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:33Z" user="童童圆圆" uid="7120208" lat="41.7668237" lon="123.4240399"/>
+ <node id="5258632670" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:33Z" user="童童圆圆" uid="7120208" lat="41.7662806" lon="123.4239962"/>
+ <node id="5258632671" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:33Z" user="童童圆圆" uid="7120208" lat="41.7662333" lon="123.4250534"/>
+ <node id="5258632672" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7667764" lon="123.4250972"/>
+ <node id="5258632673" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7666981" lon="123.4227702"/>
+ <node id="5258632674" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7664393" lon="123.4227576"/>
+ <node id="5258632675" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7664204" lon="123.4229342"/>
+ <node id="5258632676" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7663263" lon="123.4232434"/>
+ <node id="5258632677" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7663404" lon="123.4233822"/>
+ <node id="5258632678" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7667357" lon="123.4234200"/>
+ <node id="5258632679" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7666792" lon="123.4231424"/>
+ <node id="5258632680" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7666792" lon="123.4229342"/>
+ <node id="5258632681" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7627433" lon="123.4311722"/>
+ <node id="5258632684" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7638564" lon="123.4223669"/>
+ <node id="5258632685" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7632136" lon="123.4223410"/>
+ <node id="5258632686" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7630914" lon="123.4252023"/>
+ <node id="5258632687" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:34Z" user="童童圆圆" uid="7120208" lat="41.7637471" lon="123.4252540"/>
+ <node id="5267470727" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7635714" lon="123.4257772"/>
+ <node id="5267470728" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7629820" lon="123.4257191"/>
+ <node id="5267470729" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7629603" lon="123.4261161"/>
+ <node id="5267470730" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7635496" lon="123.4261742"/>
+ <node id="5267470731" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7669503" lon="123.4264815"/>
+ <node id="5267470732" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7667837" lon="123.4264728"/>
+ <node id="5267470733" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7667559" lon="123.4274349"/>
+ <node id="5267470734" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7661745" lon="123.4274046"/>
+ <node id="5267470735" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7661972" lon="123.4266221"/>
+ <node id="5267470736" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7660910" lon="123.4266166"/>
+ <node id="5267470737" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7660358" lon="123.4285236"/>
+ <node id="5267470738" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:30Z" user="童童圆圆" uid="7120208" lat="41.7668899" lon="123.4285681"/>
+ <node id="5279090633" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7658666" lon="123.4260155"/>
+ <node id="5279090634" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7656456" lon="123.4260055"/>
+ <node id="5279090635" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7656258" lon="123.4267864"/>
+ <node id="5279090636" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7658468" lon="123.4267965"/>
+ <node id="5279090637" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7658397" lon="123.4268976"/>
+ <node id="5279090638" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7656335" lon="123.4268922"/>
+ <node id="5279090639" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7656224" lon="123.4276522"/>
+ <node id="5279090640" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:43Z" user="童童圆圆" uid="7120208" lat="41.7658286" lon="123.4276576"/>
+ <node id="5279090706" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208" lat="41.7641417" lon="123.4195678"/>
+ <node id="5279090707" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208" lat="41.7634722" lon="123.4195151"/>
+ <node id="5279090708" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208" lat="41.7634267" lon="123.4205549"/>
+ <node id="5279090709" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208" lat="41.7636026" lon="123.4205687"/>
+ <node id="5279090710" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208" lat="41.7636370" lon="123.4197827"/>
+ <node id="5279090711" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208" lat="41.7641306" lon="123.4198216"/>
+ <node id="5369658967" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7671690" lon="123.4217173"/>
+ <node id="5369658968" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7671583" lon="123.4221263"/>
+ <node id="5369658969" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7675909" lon="123.4221466"/>
+ <node id="5369658970" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7675060" lon="123.4254032"/>
+ <node id="5369658971" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7644994" lon="123.4252622"/>
+ <node id="5369658972" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7645709" lon="123.4225229"/>
+ <node id="5369658973" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7650850" lon="123.4225470"/>
+ <node id="5369658974" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208" lat="41.7651092" lon="123.4216207"/>
+ <node id="5489959762" visible="true" version="2" changeset="57337599" timestamp="2018-03-20T02:46:46Z" user="童童圆圆" uid="7120208" lat="41.7631891" lon="123.4279308"/>
+ <node id="5497995710" visible="true" version="2" changeset="57443858" timestamp="2018-03-23T05:18:23Z" user="童童圆圆" uid="7120208" lat="41.7670047" lon="123.4221625"/>
+ <node id="5497995711" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7669891" lon="123.4231748"/>
+ <node id="5497995712" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7667558" lon="123.4231614"/>
+ <node id="5497995713" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7667463" lon="123.4234610"/>
+ <node id="5497995714" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7662207" lon="123.4234310"/>
+ <node id="5497995715" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7661990" lon="123.4241123"/>
+ <node id="5497995716" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7653515" lon="123.4240638"/>
+ <node id="5497995717" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7653626" lon="123.4237139"/>
+ <node id="5497995718" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208" lat="41.7648234" lon="123.4236831"/>
+ <node id="5497995719" visible="true" version="2" changeset="57443858" timestamp="2018-03-23T05:18:23Z" user="童童圆圆" uid="7120208" lat="41.7648564" lon="123.4226501"/>
+ <node id="5497995720" visible="true" version="2" changeset="57443858" timestamp="2018-03-23T05:18:23Z" user="童童圆圆" uid="7120208" lat="41.7651771" lon="123.4226617"/>
+ <node id="5497996121" visible="true" version="2" changeset="57443858" timestamp="2018-03-23T05:18:23Z" user="童童圆圆" uid="7120208" lat="41.7651981" lon="123.4220637"/>
+ <node id="5623989907" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7661381" lon="123.4230981"/>
+ <node id="5623989908" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7660528" lon="123.4230374"/>
+ <node id="5623989909" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7659988" lon="123.4230024"/>
+ <node id="5623989910" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7658786" lon="123.4229674"/>
+ <node id="5623989911" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7658159" lon="123.4230281"/>
+ <node id="5623989912" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7657497" lon="123.4230818"/>
+ <node id="5623989913" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7657480" lon="123.4231331"/>
+ <node id="5623989914" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7657358" lon="123.4231985"/>
+ <node id="5623989915" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7658229" lon="123.4232265"/>
+ <node id="5623989916" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7659796" lon="123.4232149"/>
+ <node id="5623989917" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7660754" lon="123.4231985"/>
+ <node id="5623989918" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208" lat="41.7661120" lon="123.4231822"/>
+ <node id="6119496443" visible="true" version="1" changeset="65209057" timestamp="2018-12-05T15:52:22Z" user="lorenzo23622" uid="476483" lat="41.7689041" lon="123.4259168"/>
+ <way id="53746454" visible="true" version="16" changeset="44680056" timestamp="2016-12-26T11:40:10Z" user="SomeoneElse_Revert" uid="1778799">
+  <nd ref="1019548119"/>
+  <nd ref="1019548117"/>
+  <nd ref="1025702948"/>
+  <nd ref="677593115"/>
+  <nd ref="678460873"/>
+  <nd ref="678460876"/>
+  <nd ref="1859675276"/>
+  <nd ref="678461174"/>
+  <nd ref="2246381073"/>
+  <nd ref="4098319195"/>
+  <nd ref="1025702972"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="162199680" visible="true" version="2" changeset="15476535" timestamp="2013-03-24T10:46:18Z" user="muaum" uid="212575">
+  <nd ref="1741292814"/>
+  <nd ref="676742067"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="162199686" visible="true" version="1" changeset="11506685" timestamp="2012-05-05T11:24:58Z" user="muaum" uid="212575">
+  <nd ref="1741292818"/>
+  <nd ref="1741292811"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="181282172" visible="true" version="7" changeset="44672785" timestamp="2016-12-26T01:46:27Z" user="SomeoneElse_Revert" uid="1778799">
+  <nd ref="1025702972"/>
+  <nd ref="2321984875"/>
+  <nd ref="1917119238"/>
+  <nd ref="1917119255"/>
+  <nd ref="1917119256"/>
+  <nd ref="1917119251"/>
+  <nd ref="1917119244"/>
+  <nd ref="2036315214"/>
+  <nd ref="2036315190"/>
+  <nd ref="1917119250"/>
+  <nd ref="1917119242"/>
+  <nd ref="1917119245"/>
+  <nd ref="1917119239"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="三好街"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="193113419" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:27Z" user="muaum" uid="212575">
+  <nd ref="2036315190"/>
+  <nd ref="2036315211"/>
+  <nd ref="2036315184"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="193113423" visible="true" version="1" changeset="14058927" timestamp="2012-11-27T13:34:27Z" user="muaum" uid="212575">
+  <nd ref="2036315216"/>
+  <nd ref="2036315200"/>
+  <nd ref="2036315197"/>
+  <nd ref="2036315214"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="235113300" visible="true" version="2" changeset="54253845" timestamp="2017-12-01T23:43:36Z" user="童童圆圆" uid="7120208">
+  <nd ref="1040754945"/>
+  <nd ref="1741292809"/>
+  <nd ref="5258632681"/>
+  <nd ref="677593108"/>
+  <nd ref="677593109"/>
+  <nd ref="1025702961"/>
+  <nd ref="677593115"/>
+  <nd ref="1917119250"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="文萃路"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="543801286" visible="true" version="3" changeset="54221936" timestamp="2017-12-01T02:40:36Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256850862"/>
+  <nd ref="5256850863"/>
+  <nd ref="5256850864"/>
+  <nd ref="5256850868"/>
+  <nd ref="5256850878"/>
+  <nd ref="5256850862"/>
+  <tag k="landuse" v="commercial"/>
+  <tag k="name" v="五里河华联"/>
+ </way>
+ <way id="543802627" visible="true" version="1" changeset="54221261" timestamp="2017-12-01T01:40:36Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256870968"/>
+  <nd ref="5256870969"/>
+  <nd ref="5256870970"/>
+  <nd ref="5256870971"/>
+  <nd ref="5256870968"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="21"/>
+  <tag k="name" v="云顶大厦B座"/>
+ </way>
+ <way id="543806549" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923156"/>
+  <nd ref="5256923157"/>
+  <nd ref="5256923158"/>
+  <nd ref="5256923159"/>
+  <nd ref="5256923156"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806550" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923160"/>
+  <nd ref="5256923161"/>
+  <nd ref="5256923162"/>
+  <nd ref="5256923163"/>
+  <nd ref="5256923160"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806551" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923164"/>
+  <nd ref="5256923165"/>
+  <nd ref="5256923166"/>
+  <nd ref="5256923167"/>
+  <nd ref="5256923164"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806552" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923168"/>
+  <nd ref="5256923169"/>
+  <nd ref="5256923170"/>
+  <nd ref="5256923171"/>
+  <nd ref="5256923168"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806553" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923172"/>
+  <nd ref="5256923173"/>
+  <nd ref="5256923174"/>
+  <nd ref="5256923175"/>
+  <nd ref="5256923172"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806554" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923176"/>
+  <nd ref="5256923177"/>
+  <nd ref="5256923178"/>
+  <nd ref="5256923179"/>
+  <nd ref="5256923176"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806555" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923180"/>
+  <nd ref="5256923181"/>
+  <nd ref="5256923182"/>
+  <nd ref="5256923183"/>
+  <nd ref="5256923180"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806556" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923184"/>
+  <nd ref="5256923185"/>
+  <nd ref="5256923186"/>
+  <nd ref="5256923187"/>
+  <nd ref="5256923184"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806557" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923188"/>
+  <nd ref="5256923189"/>
+  <nd ref="5256923190"/>
+  <nd ref="5256923191"/>
+  <nd ref="5256923188"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806558" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923192"/>
+  <nd ref="5256923193"/>
+  <nd ref="5256923194"/>
+  <nd ref="5256923195"/>
+  <nd ref="5256923192"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806560" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923200"/>
+  <nd ref="5256923201"/>
+  <nd ref="5256923202"/>
+  <nd ref="5256923203"/>
+  <nd ref="5256923200"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806561" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:12Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923204"/>
+  <nd ref="5256923205"/>
+  <nd ref="5256923206"/>
+  <nd ref="5256923207"/>
+  <nd ref="5256923204"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806562" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923208"/>
+  <nd ref="5256923209"/>
+  <nd ref="5256923210"/>
+  <nd ref="5256923211"/>
+  <nd ref="5256923208"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806563" visible="true" version="2" changeset="54222302" timestamp="2017-12-01T03:08:11Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923212"/>
+  <nd ref="5256923213"/>
+  <nd ref="5256923214"/>
+  <nd ref="5256923215"/>
+  <nd ref="5256923212"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543806564" visible="true" version="1" changeset="54221936" timestamp="2017-12-01T02:40:36Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256923216"/>
+  <nd ref="5256923217"/>
+  <nd ref="5256923218"/>
+  <nd ref="5256923219"/>
+  <nd ref="5256923220"/>
+  <nd ref="5256924021"/>
+  <nd ref="5256924022"/>
+  <nd ref="5256924023"/>
+  <nd ref="5256923216"/>
+  <tag k="building" v="commercial"/>
+ </way>
+ <way id="543806565" visible="true" version="3" changeset="57337599" timestamp="2018-03-20T02:46:46Z" user="童童圆圆" uid="7120208">
+  <nd ref="5256924024"/>
+  <nd ref="5256924025"/>
+  <nd ref="5489959762"/>
+  <nd ref="5256924026"/>
+  <nd ref="5256924024"/>
+  <tag k="landuse" v="recreation_ground"/>
+ </way>
+ <way id="543998988" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:35Z" user="童童圆圆" uid="7120208">
+  <nd ref="5258632669"/>
+  <nd ref="5258632670"/>
+  <nd ref="5258632671"/>
+  <nd ref="5258632672"/>
+  <nd ref="5258632669"/>
+  <tag k="leisure" v="pitch"/>
+  <tag k="sport" v="basketball"/>
+ </way>
+ <way id="543998989" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:35Z" user="童童圆圆" uid="7120208">
+  <nd ref="5258632673"/>
+  <nd ref="5258632674"/>
+  <nd ref="5258632675"/>
+  <nd ref="5258632676"/>
+  <nd ref="5258632677"/>
+  <nd ref="5258632678"/>
+  <nd ref="5258632679"/>
+  <nd ref="5258632680"/>
+  <nd ref="5258632673"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="543998991" visible="true" version="1" changeset="54253845" timestamp="2017-12-01T23:43:35Z" user="童童圆圆" uid="7120208">
+  <nd ref="5258632684"/>
+  <nd ref="5258632685"/>
+  <nd ref="5258632686"/>
+  <nd ref="5258632687"/>
+  <nd ref="5258632684"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="诚大数码广场"/>
+ </way>
+ <way id="544959001" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:31Z" user="童童圆圆" uid="7120208">
+  <nd ref="5267470727"/>
+  <nd ref="5267470728"/>
+  <nd ref="5267470729"/>
+  <nd ref="5267470730"/>
+  <nd ref="5267470727"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="544959002" visible="true" version="1" changeset="54392728" timestamp="2017-12-06T07:44:31Z" user="童童圆圆" uid="7120208">
+  <nd ref="5267470731"/>
+  <nd ref="5267470732"/>
+  <nd ref="5267470733"/>
+  <nd ref="5267470734"/>
+  <nd ref="5267470735"/>
+  <nd ref="5267470736"/>
+  <nd ref="5267470737"/>
+  <nd ref="5267470738"/>
+  <nd ref="5267470731"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="546266332" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208">
+  <nd ref="5279090633"/>
+  <nd ref="5279090634"/>
+  <nd ref="5279090635"/>
+  <nd ref="5279090636"/>
+  <nd ref="5279090633"/>
+  <tag k="area" v="yes"/>
+ </way>
+ <way id="546266333" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:44Z" user="童童圆圆" uid="7120208">
+  <nd ref="5279090637"/>
+  <nd ref="5279090638"/>
+  <nd ref="5279090639"/>
+  <nd ref="5279090640"/>
+  <nd ref="5279090637"/>
+  <tag k="area" v="yes"/>
+ </way>
+ <way id="546266351" visible="true" version="1" changeset="54558595" timestamp="2017-12-12T07:22:45Z" user="童童圆圆" uid="7120208">
+  <nd ref="5279090706"/>
+  <nd ref="5279090707"/>
+  <nd ref="5279090708"/>
+  <nd ref="5279090709"/>
+  <nd ref="5279090710"/>
+  <nd ref="5279090711"/>
+  <nd ref="5279090706"/>
+  <tag k="area" v="yes"/>
+ </way>
+ <way id="556665307" visible="true" version="1" changeset="55850458" timestamp="2018-01-29T06:33:51Z" user="童童圆圆" uid="7120208">
+  <nd ref="5369658967"/>
+  <nd ref="5369658968"/>
+  <nd ref="5369658969"/>
+  <nd ref="5369658970"/>
+  <nd ref="5369658971"/>
+  <nd ref="5369658972"/>
+  <nd ref="5369658973"/>
+  <nd ref="5369658974"/>
+  <nd ref="5369658967"/>
+  <tag k="amenity" v="university"/>
+  <tag k="name" v="音乐学院"/>
+ </way>
+ <way id="572247660" visible="true" version="1" changeset="57443826" timestamp="2018-03-23T05:16:14Z" user="童童圆圆" uid="7120208">
+  <nd ref="5497995710"/>
+  <nd ref="5497995711"/>
+  <nd ref="5497995712"/>
+  <nd ref="5497995713"/>
+  <nd ref="5497995714"/>
+  <nd ref="5497995715"/>
+  <nd ref="5497995716"/>
+  <nd ref="5497995717"/>
+  <nd ref="5497995718"/>
+  <nd ref="5497995719"/>
+  <nd ref="5497995720"/>
+  <nd ref="5497996121"/>
+  <nd ref="5497995710"/>
+  <tag k="leisure" v="park"/>
+ </way>
+ <way id="588906710" visible="true" version="1" changeset="59041997" timestamp="2018-05-17T08:30:21Z" user="童童圆圆" uid="7120208">
+  <nd ref="5623989907"/>
+  <nd ref="5623989908"/>
+  <nd ref="5623989909"/>
+  <nd ref="5623989910"/>
+  <nd ref="5623989911"/>
+  <nd ref="5623989912"/>
+  <nd ref="5623989913"/>
+  <nd ref="5623989914"/>
+  <nd ref="5623989915"/>
+  <nd ref="5623989916"/>
+  <nd ref="5623989917"/>
+  <nd ref="5623989918"/>
+  <nd ref="5623989907"/>
+  <tag k="natural" v="water"/>
+ </way>
+ <way id="652873295" visible="true" version="1" changeset="65209057" timestamp="2018-12-05T15:52:22Z" user="lorenzo23622" uid="476483">
+  <nd ref="6119496443"/>
+  <nd ref="2246381067"/>
+  <nd ref="1741292814"/>
+  <nd ref="1741292818"/>
+  <nd ref="1025702961"/>
+  <nd ref="1025702949"/>
+  <nd ref="1019548215"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="五里河街"/>
+ </way>
+ <relation id="2541328" visible="true" version="2" changeset="42507032" timestamp="2016-09-28T23:09:39Z" user="lzm956902416" uid="4508854">
+  <member type="node" ref="1917119251" role=""/>
+  <tag k="restriction" v="no_left_turn"/>
+  <tag k="type" v="restriction"/>
+ </relation>
+</osm>
